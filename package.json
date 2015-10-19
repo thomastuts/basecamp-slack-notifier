@@ -1,0 +1,24 @@
+{
+  "name": "basecamp-slack-notifier",
+  "version": "0.0.0",
+  "description": "A simple Basecamp event notifier for Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomastuts/basecamp-slack-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomastuts/basecamp-slack-notifier/issues"
+  },
+  "homepage": "https://github.com/thomastuts/basecamp-slack-notifier#readme",
+  "dependencies": {
+    "axios": "^0.7.0",
+    "babel": "^5.8.23",
+    "moment": "^2.10.6"
+  }
+}
