@@ -1,2 +1,2 @@
-require('babel-core/register');
+require('babel');
 require('./lib/main.js');
